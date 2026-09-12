@@ -106,7 +106,3 @@ task/
 ├── database.db          # SQLite database
 └── README.md            # Project documentation
 ```
-
-<div align="center">
-Made with Flask and Python
-</div>
